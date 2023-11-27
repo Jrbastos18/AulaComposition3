@@ -1,0 +1,14 @@
+D:\Microsoft Visual Studio\Projetos\Aula132ExFixEnumEComposition\Aula132ExFixEnumEComposition\bin\Debug\net7.0\Aula132ExFixEnumEComposition.exe
+D:\Microsoft Visual Studio\Projetos\Aula132ExFixEnumEComposition\Aula132ExFixEnumEComposition\bin\Debug\net7.0\Aula132ExFixEnumEComposition.deps.json
+D:\Microsoft Visual Studio\Projetos\Aula132ExFixEnumEComposition\Aula132ExFixEnumEComposition\bin\Debug\net7.0\Aula132ExFixEnumEComposition.runtimeconfig.json
+D:\Microsoft Visual Studio\Projetos\Aula132ExFixEnumEComposition\Aula132ExFixEnumEComposition\bin\Debug\net7.0\Aula132ExFixEnumEComposition.dll
+D:\Microsoft Visual Studio\Projetos\Aula132ExFixEnumEComposition\Aula132ExFixEnumEComposition\bin\Debug\net7.0\Aula132ExFixEnumEComposition.pdb
+D:\Microsoft Visual Studio\Projetos\Aula132ExFixEnumEComposition\Aula132ExFixEnumEComposition\obj\Debug\net7.0\Aula132ExFixEnumEComposition.GeneratedMSBuildEditorConfig.editorconfig
+D:\Microsoft Visual Studio\Projetos\Aula132ExFixEnumEComposition\Aula132ExFixEnumEComposition\obj\Debug\net7.0\Aula132ExFixEnumEComposition.AssemblyInfoInputs.cache
+D:\Microsoft Visual Studio\Projetos\Aula132ExFixEnumEComposition\Aula132ExFixEnumEComposition\obj\Debug\net7.0\Aula132ExFixEnumEComposition.AssemblyInfo.cs
+D:\Microsoft Visual Studio\Projetos\Aula132ExFixEnumEComposition\Aula132ExFixEnumEComposition\obj\Debug\net7.0\Aula132ExFixEnumEComposition.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio\Projetos\Aula132ExFixEnumEComposition\Aula132ExFixEnumEComposition\obj\Debug\net7.0\Aula132ExFixEnumEComposition.dll
+D:\Microsoft Visual Studio\Projetos\Aula132ExFixEnumEComposition\Aula132ExFixEnumEComposition\obj\Debug\net7.0\refint\Aula132ExFixEnumEComposition.dll
+D:\Microsoft Visual Studio\Projetos\Aula132ExFixEnumEComposition\Aula132ExFixEnumEComposition\obj\Debug\net7.0\Aula132ExFixEnumEComposition.pdb
+D:\Microsoft Visual Studio\Projetos\Aula132ExFixEnumEComposition\Aula132ExFixEnumEComposition\obj\Debug\net7.0\Aula132ExFixEnumEComposition.genruntimeconfig.cache
+D:\Microsoft Visual Studio\Projetos\Aula132ExFixEnumEComposition\Aula132ExFixEnumEComposition\obj\Debug\net7.0\ref\Aula132ExFixEnumEComposition.dll
